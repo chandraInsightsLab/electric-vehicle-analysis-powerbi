@@ -98,7 +98,7 @@ The dataset contains information about electric vehicles, including:
 
 ## 📷 Dashboard Preview
 
-> 
+![Vendor Performance Dashboard](image/dashboard.png)
 
 ---
 
